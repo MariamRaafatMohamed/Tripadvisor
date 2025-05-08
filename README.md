@@ -34,7 +34,7 @@ This Power BI dashboard provides key insights into hotel statistics including us
 
 
 
-## 📝 Author
+## Author
 
 - Dashboard by Mariam Raafat
 - Created as part of a data visualization learning journey
