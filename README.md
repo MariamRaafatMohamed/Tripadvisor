@@ -30,7 +30,7 @@ This Power BI dashboard provides key insights into hotel statistics including us
 
 ## 📸 Preview
 
-![Dashboard Preview](assets/dashboard-screenshot.png)
+![Dashboard Preview](Tripadvisor .png)
 
 
 ## 👩‍💻 Created by:
