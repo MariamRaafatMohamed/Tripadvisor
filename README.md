@@ -33,9 +33,10 @@ This Power BI dashboard provides key insights into hotel statistics including us
 ![Dashboard Preview](Tripadvisor.png)
 
 
-## 👩‍💻 Created by:
 
-**Mariam Raafat**  
-*Data Analyst & Power BI Enthusiast*
+## 📝 Author
+
+- Dashboard by Mariam Raafat
+- Created as part of a data visualization learning journey
 
 
